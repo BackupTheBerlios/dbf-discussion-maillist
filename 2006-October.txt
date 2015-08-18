@@ -1,0 +1,14 @@
+From amery at opensde.org  Tue Oct 17 14:39:02 2006
+From: amery at opensde.org (Alejandro Mery)
+Date: Tue, 17 Oct 2006 14:39:02 +0200
+Subject: [Dbf-discussion] asking for current offset
+Message-ID: <4534CEE6.60601@opensde.org>
+
+hi, what's the supposed way to know the current "record number" (i.e. 
+offset) without keeping an external counter? this value is needed to go 
+to the "next" record even if we don't care about which record are we on.
+
+thanks in advance,
+Alejandro Mery
+
+
